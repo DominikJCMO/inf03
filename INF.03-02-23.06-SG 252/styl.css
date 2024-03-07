@@ -1,0 +1,21 @@
+body {
+    font-family: Georgia;
+    text-align: center;
+}
+
+#banner, #footer {
+    background-color:  #4BA3C7;
+    color: white;
+    height: 80px;
+    font-size: 120%;
+}
+#panel-left, #panel-right {
+    background-color:  #EFEFEF;
+    height: 400px;
+    width: 25%;
+}
+#panel-midle {
+    background-color:  #90CAF9;
+    height: 400px;
+    width: 50%;
+}

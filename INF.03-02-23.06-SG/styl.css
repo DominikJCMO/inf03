@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia;
+    text-align: center;
+}
+#banner, #footer {
+    background-color: #4ba3c7;
+    color: white;
+    height: 80px;
+    font-size: 120%;
+    clear: both;
+}
+#panel-left, #panel-right {
+    background-color: #EFEFEF;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+#panel-midle{
+    background-color: #90caf9;
+    height: 400px;
+    width: 50%;
+    float: left;
+}
+table {
+    margin-left: 10px;
+    width: 90%;
+    border: 1px solid #90caf9;
+}
+td {
+    padding: 5px;
+    border: 1px solid #90caf9;
+}
+tr:hover {
+    background-color: #90caf9;
+}
+input[type="number"]{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

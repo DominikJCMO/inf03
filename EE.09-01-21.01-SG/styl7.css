@@ -1,0 +1,42 @@
+#banner {
+    color: white;
+    text-align: center;
+    height: 370px;
+
+}
+#midle{
+background-color: whitesmoke;
+height: 50px;
+}
+#left {
+    background-color: whitesmoke;
+    height: 230px;
+    width: 70%;
+    float: left;
+}
+#right {
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: left;
+}
+body {
+    font-family: Tahoma;
+    background-color: crimson;
+
+}
+h2 {
+    text-align: center;
+    letter-spacing: 7px;
+    font-variant-caps: capitalize;
+}
+
+
+
+
+/*
+‒ Dla znacznika body: krój czcionki Tahoma, kolor tła Crimson
+‒ Dla znacznika nagłówka drugiego stopnia: wyrównanie tekstu do środka, odległość między literami
+7 px, tekst napisany kapitalikami (capitalize) 
+ */
