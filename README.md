@@ -16,5 +16,8 @@ repozytorium kwalifikacji INF.03
 #wypchnięcie zmian
 `git push`
 
-sciągnięcie zmian
+#sciągnięcie zmian
 `git pull`
+
+#Wylistowanie gałęzi
+`git branch`
