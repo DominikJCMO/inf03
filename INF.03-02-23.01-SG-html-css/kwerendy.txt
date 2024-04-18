@@ -1,0 +1,2 @@
+kw1
+SELECT nazwa, id, cena FROM pokoje
