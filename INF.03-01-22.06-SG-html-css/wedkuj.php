@@ -31,7 +31,7 @@
 			<h3>Ryby drapieżne naszych wód</h3>
 			<table>
 				<tr>
-					<th>L.p.</th>
+					<th>L.p.</th>	
 					<th>Gatunek</th>
 					<th>Występowanie</th>
 				</tr>
